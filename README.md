@@ -1,5 +1,5 @@
 # Deep Learning Image Caption Generator
-> ## Deep CNN-LSTM for Generating Image Descriptions :smiling_imp:
+> ## Deep CNN-LSTM for Generating Image Descriptions :
 **Key words**: Image captioning, image description generator, explain image, merge model, deep learning, long-short term memory, recurrent neural network, convolutional neural network, word by word, word embeding, bleu score.
 
 **Related works**: Deep model for computer vision and natural language, Image-sentence retrieval, Generating novel sentence descriptions for images.
